@@ -66,7 +66,7 @@ https://www.python.org/
 ### Step 2: Clone or Download the Project
 
 ```bash
-git clone <repository-link>
+git clone https://github.com/RohitSah13/-Record-Management-System
 ```
 
 Or simply download the project files.
